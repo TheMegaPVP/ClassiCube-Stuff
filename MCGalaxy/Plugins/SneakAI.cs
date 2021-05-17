@@ -19,7 +19,7 @@ namespace MCGalaxy {
         }
         public override string creator {
             get {
-                return "";
+                return "Venk";
             }
         }
 
